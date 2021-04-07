@@ -1,4 +1,5 @@
 -- EX1
+
 -- script
 CREATE TABLE parts
 (
